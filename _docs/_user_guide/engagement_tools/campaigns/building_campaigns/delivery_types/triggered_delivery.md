@@ -54,6 +54,7 @@ Select a trigger event. This can include any of the following:
 - Triggering a geofence
 - Sending an SMS inbound message
 - Sending a WhatsApp inbound message
+- Submit a Landing page form
 
 You can also further filter trigger events through Braze [custom event properties]({{site.baseurl}}/user_guide/data/custom_data/custom_events/), allowing for customizable event properties for custom events and in-app purchases. This feature allows you to further tailor which users receive a message based on the specific attributes of the custom event, allowing for greater campaign personalization and more sophisticated data collection. 
 
